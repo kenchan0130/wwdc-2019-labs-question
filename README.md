@@ -2,7 +2,7 @@
 
 This repository is questions for WWDC 2019 Labs.
 
-## Questions
+## Questions and answers
 
 * About Gatekeeper and xattr command
 * How to detect presentation mode
