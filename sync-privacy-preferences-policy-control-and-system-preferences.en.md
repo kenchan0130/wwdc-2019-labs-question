@@ -13,3 +13,8 @@ The end user can check the privacy preferences policy control settings from "Sys
 ![](/imgs/accessibility.png)
 
 ![](/imgs/profile.png)
+
+## Apple answer
+
+This is by design for now. We don't have an easy solution.
+Apple has heard a few requests about this, so getting a Feature Request might be a priority.
