@@ -6,9 +6,11 @@ The macOS has `xattr` command.
 
 ```sh
 xattr -c xxx.app
+# or
+xattr -r -d com.apple.quarantine xxx.app
 ```
 
-As described above, the user can remove custom attribute from the app with the `-c` option.
+As described above, the user can remove `com.apple.quarantine` custom attributes from the app.
 
 
 The problem here is that if you use the `xattr` command to remove custom attributes for applications that are unsigned
